@@ -7,8 +7,8 @@ namespace UC4
         public static void Main(string[] args)
         {
 
-            UC3.Person.CreateContacts();
-            Person.editContact();
+            UC4.Person.CreateContacts();
+            Person.removeContact();
 
         }
     }
